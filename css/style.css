@@ -1,0 +1,70 @@
+
+.one{
+	text-align: center;
+	border: 3px solid blue;
+	font:bold;
+	background-color: #bcd6cf;
+
+}
+
+
+
+.menu{
+
+	border: 2px solid black;
+	background: #ababab;
+	text-align: right;
+}
+.menubar{
+
+	border: 2px solid black;
+	text-decoration: none;
+	color: #363636;
+}
+
+.two{
+	background: #3f464d;
+	text-align: center;
+	border: 2px solid white;
+}
+
+.sections{
+	border: 1px solid white;
+	background-color: #7d838a;
+	text-decoration: none;
+	color: black;
+
+}
+.topic{
+	text-decoration: none;
+	background: #b6bab9;
+}
+.three{
+	text-decoration: none;
+	background: #8cbedb;
+	color: blue;
+
+}
+
+}
+.log{
+	margin:0px 40%;
+	border: 2px solid black;
+	background: #cbced1;
+}
+.page1,.page2,.page3,.page4,.page5,.page6,.not{
+	background: #cbced1;
+}
+.area{
+	text-decoration: none;
+	color: #56786e;
+	font-size: 25px;
+	border: 1px solid black;
+}
+
+
+.wthr-rprt{
+	text-align: center;
+	margin:100px 20% 0%;
+	border: 1px solid black;
+}
